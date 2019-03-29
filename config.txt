@@ -1,7 +1,7 @@
-﻿token = NDgyMjgxMjU4OTE5OTE5NjQ0.D39JUA.5M44ue3qljNguUOdp6jAo0775QM
+token = NTEwNzk2ODQyODIxMzUzNDcz.D39I0g.4WUfj4qjnkyTw9oYeF5VzltxNIE
 owner = 478291914106339332
-prefix = "1"
-game = "Hix - 1play"
+prefix = "2"
+game = "Hix - 2play"
 status = idle
 songinstatus = false
 altprefix = "NONE"
